@@ -12,6 +12,6 @@ Generative AI impact of scaling in LLMs.
 ## Algorithm:
 
 ## Output
-[view PDF](./Prompt_ex1_report.pdf)
+[Prompt ex1 report](./Prompt_ex1_report.pdf)
 ## Result
 
